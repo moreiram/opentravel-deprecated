@@ -1060,6 +1060,11 @@ figure.effect-zoe:hover p.description {
 	opacity: 1;
 }
 
+figure.effect-zoe:hover p.description a {
+	opacity: 1;
+}
+
+
 figure.effect-zoe:hover figcaption,
 figure.effect-zoe:hover h2,
 figure.effect-zoe:hover p.icon-links a {
