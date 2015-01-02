@@ -25,7 +25,10 @@ Because I am the sole writer and contributor to the project, progress will be sl
 ----------------
 
 ###Main Page
+
 ![image demo, mk II](http://a.pomf.se/ckeoor.gif)
+
+
 The main goal for this page is to show at a glance the main event of the itinerary, e.g. the Eiffel Tower in Paris, the Brandenburg Gate in Berlin, or the Chapultepec Castle in Mexico City. The itinerary should have some sort of budget attached, so that the reader can also discern at a glance whether or not he/she can afford it. In this way, the two most important questions pertaining to an itinerary can be answered quickly: Where it is, and how much it will cost.
 
 The main page will be divided into continents, such that Europe, Africa, America, and Asia will each have its own subsection. This will make it much easier to categorize and put disparate destinations in order. 
