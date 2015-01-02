@@ -12,7 +12,7 @@ Because I am the sole writer and contributor to the project, progress will be sl
 | Item | Status |
 |---|---|
 | started the project |:ballot_box_with_check: (done)|
-| Replace all the crappy lorem ipsum from the articles that are done |:waxing_crescent_moon: (just starting)|
+| Replace all the crappy lorem ipsum from the articles that are 'done' |:waxing_crescent_moon: (just starting)|
 | South America intro cities (Rio, etc.) |:new_moon: (Not started yet)|
 | Asia intro cities (Shanghai, etc.) |:new_moon:|
 | add more to the To-Do section |:new_moon:|
