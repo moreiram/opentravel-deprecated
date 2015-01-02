@@ -21,3 +21,5 @@ Because I am the sole writer and contributor to the project, progress will be sl
 |  |:new_moon:|
 |  |:new_moon:|
 |  |:new_moon:|
+
+![image demo, mk II](http://a.pomf.se/ckeoor.gif)
