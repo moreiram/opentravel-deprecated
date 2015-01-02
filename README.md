@@ -1,3 +1,7 @@
+#Warning! *Open*Travel has been deprecated!
+####Please see my [fork of openitinerary](https://github.com/Yottawatts/openitinerary.github.io) for more up-to-date info. 
+####Thanks. 
+
 ![*Open*travel](http://a.pomf.se/kvsslv.png)
 ==========
 
